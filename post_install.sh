@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# install and enable packages
 
 sysrc exim_enable="YES"
 sysrc dovecot_enable="YES"
